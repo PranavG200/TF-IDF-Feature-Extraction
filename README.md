@@ -1,5 +1,17 @@
 # TF-IDF-Feature-Extraction
 
+## Portfolio site
+
+This repository now includes a minimalist portfolio landing page. Open `index.html` directly in a browser or serve the folder locally (for example with `python -m http.server`) to view the interactive sections.
+
+Sections include:
+- Hero banner with calls to action
+- Story timeline covering controls, firmware, estimation, and ML
+- Filterable project grid with links to GitHub
+- Exploration Lab to showcase interests without shipped projects
+- Contact links for collaboration
+
+
 The App dataset consists of two classes (M/B) having numerous text files which corresponds to execution traces of applications in the Operating System. The attributes are different calls invoked by the application while executing each sample for fixed duration. In this experiment the following tasks have been performed :
 
 [1] Understanding the representation of features which are system calls (Boolean Occurrence of calls or TF-IDF(Term Frequency and Inverse document frequency)). 
